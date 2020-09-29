@@ -9,5 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&&show_icons=true&title_color=ffffff&icon_color=bb2ac&text_color=daf7dc&bg_color=191919">
-
+<img src="https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&&show_icons=true&title_color=ffffff&icon_color=CDB380&text_color=E8DDCB&bg_color=031634">
