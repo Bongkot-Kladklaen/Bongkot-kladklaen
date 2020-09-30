@@ -4,6 +4,13 @@
 # Hello, I'm Bongkot Kladklean! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50px">
 </div>
 
+<p align='center'>
+<a href="https://www.instagram.com/_jaybong_/"><img height="30" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/Jaycop.IdeaCode/"><img height="30" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/facebook.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen"><img height="30" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/github.svg"></a>&nbsp;&nbsp;
+
+ </p>
+ 
 <div align="Center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
