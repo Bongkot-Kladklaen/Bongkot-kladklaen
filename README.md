@@ -13,7 +13,7 @@
  
 <div align="Center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
+</div><br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
