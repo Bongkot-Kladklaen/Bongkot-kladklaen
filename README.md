@@ -26,16 +26,16 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php-plain.svg" alt="php" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php-plain.svg" alt="php" height="60" />
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/python-original.svg" alt="python" height="50" />
-<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/mysql-original-wordmark.svg" alt="mysql" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/mysql-original-wordmark.svg" alt="mysql" height="60" />
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/git-original.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/github-original.svg" alt="Github" height="50" />
-<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/docker-plain.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/docker-plain.svg" alt="Docker" height="60" />
 </div></td></tr></table>  
 
 <br/>  
