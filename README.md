@@ -1,4 +1,8 @@
-### Hello, I'm Bongkot Kladklean! 👋
+<div align="center">
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  
+# Hello, I'm Bongkot Kladklean! 👋
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,3 +14,6 @@
 - ⚡ Fun fact: ...
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&show_icons=true&theme=radical)
+
+
+</div>
