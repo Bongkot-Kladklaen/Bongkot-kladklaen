@@ -14,5 +14,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="left">
+  <img src="icons/html.svg" />
+</p>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&show_icons=true&theme=radical)
 
