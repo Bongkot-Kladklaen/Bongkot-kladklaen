@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   
-# Hello, I'm Bongkot Kladklean! 👋
+# Hello, I'm Bongkot Kladklean! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50px">
 </div>
 
 - 🔭 I’m currently working on ...
