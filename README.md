@@ -13,17 +13,25 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Languages and Tools:
+### 👨🏻‍💻 Languages and Tools 🚀:
+<table><tr><td valign="top" width="33%">
 
-<p align="left">
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</p>
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="CSS" height="50" />  
+</div></td><td valign="top" width="33%">
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="CSS" height="50" />
+</div></td><td valign="top" width="33%">
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="CSS" height="50" />
+</div></td></tr></table>  
+
+<br/>  
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&show_icons=true&theme=radical)
