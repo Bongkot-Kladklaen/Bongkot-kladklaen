@@ -13,7 +13,7 @@
  
 <div align="Center">
 <h3>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Bongkot Kladklaen | 💻 Software Engineer | 🛸 Thailand
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Bongkot Kladklaen | 💻 Software Engineer | 🚀 Thailand
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 </div><br/>
@@ -27,7 +27,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### 👨🏻‍💻 Languages and Tools 🚀:
+### 👨🏻‍💻 Languages and Tools:
 <table><tr><td valign="top" width="25%">
 
 ### Frontend  
