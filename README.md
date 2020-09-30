@@ -18,17 +18,24 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="CSS" height="50" />  
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/css3-plain.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/javascript-plain.svg" alt="Javascript" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/bootstrap-plain.svg" alt="Bootstrap" height="50" />
 </div></td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="CSS" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php-plain.svg" alt="php" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/python-original.svg" alt="python" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/mysql-original-wordmark.svg" alt="mysql" height="50" />
 </div></td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="CSS" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/git-original.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/github-original.svg" alt="Github" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/docker-plain.svg" alt="Docker" height="50" />
 </div></td></tr></table>  
 
 <br/>  
