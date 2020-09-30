@@ -3,6 +3,7 @@
   
 # Hello, I'm Bongkot Kladklean! 👋
 
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,5 +16,3 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&show_icons=true&theme=radical)
 
-
-</div>
