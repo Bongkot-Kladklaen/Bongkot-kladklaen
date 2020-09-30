@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 
 <p align="left">
-  <img src="icons/html.svg" />
+  <img src="ihttps://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/tree/master/icons/html.svg" />
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&show_icons=true&theme=radical)
