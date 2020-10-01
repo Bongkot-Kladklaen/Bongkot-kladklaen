@@ -65,15 +65,8 @@ Web Developement | Software Engineer
 <br/>  
 
 <div align="center">
-<p align="left">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&show_icons=true&theme=radical)
 
-</p>
-<p align="left">
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&show_icons=true&theme=radical)
-
-</p>
 </div>
 
