@@ -18,7 +18,7 @@
 </h3>
 </div><br/>
 
-<img align="right" height="350" width="375" alt="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/coding.gif" />
+<img align="right" height="350" width="490" alt="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/coding.gif" />
 
 ### Talking about Personal Stuffs:
 - 🔭 I’m currently working on ...
@@ -52,8 +52,7 @@
 ### Tools
 <div align="center">
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VScode" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VScode" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VScode" height="50" />
+<img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/postman.svg" alt="VScode" height="50" />
 </div></td><td valign="top" width="25%">
 
 ### DevOps  
