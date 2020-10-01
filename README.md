@@ -11,11 +11,11 @@
 </p>
  
 <div align="Center">
-<h3>
+<h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   🙎🏻 Bongkot Kladklaen | 🇹🇭 Thailand
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h3>
+</h2>
   
 ### 🖥 My Interrest 🖥
 Web Developement | Software Engineer
