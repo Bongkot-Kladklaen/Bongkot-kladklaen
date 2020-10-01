@@ -17,12 +17,14 @@
 </h3>
 </div><br/>
 
-<img align="right" height="350" width="490" alt="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/coding.gif" />
+<img align="right" height="360" width="485" alt="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/coding.gif" />
 
+### 🧑🏻‍💻 Languages and Tools:
 - 🧑🏻‍🎓 I'm graduated from Bangkok University Computer Engineering.
 - 📖 I’m currently learning Full Stack Development,Machine Learning.
 - ⚡ Fun fact: I love to play guitar and badminton
 
+<br><br>
 
 ### 🧑🏻‍💻 Languages and Tools:
 <table><tr><td valign="top" width="25%">
