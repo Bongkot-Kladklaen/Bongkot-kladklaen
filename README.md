@@ -20,7 +20,6 @@
 
 <img align="right" height="350" width="400" alt="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/coding.gif" />
 
-### 🚀 Talking about Personal Stuffs:
 - 🧑🏻‍🎓 I'm graduated from Bangkok University Computer Engineering.
 - 📖 I’m currently learning Full Stack Development,Machine Learning.
 - 👯 I’m looking to collaborate on ...
@@ -28,8 +27,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: I love to play guitar and badminton
 
 ### 🧑🏻‍💻 Languages and Tools:
 <table><tr><td valign="top" width="25%">
