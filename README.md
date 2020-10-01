@@ -29,7 +29,7 @@ Web Developement | Software Engineer
 - 📖 I’m currently learning Full Stack Development, Machine Learning and Data Science.
 - ⚡ Fun fact: I love to play guitar and badminton
 
-<br><br><br>
+<br><br><br><br><br>
 
 ### 🧑🏻‍💻 Languages and Tools:
 <table><tr><td valign="top" width="30%">
