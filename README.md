@@ -13,14 +13,14 @@
  
 <div align="Center">
 <h3>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎🏻 Bongkot Kladklaen | 🖥 Software Engineer | 🚀 Thailand
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎🏻 Bongkot Kladklaen | 🖥 Software Engineer | 🇹🇭 Thailand
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 </div><br/>
 
 <img align="right" height="350" width="400" alt="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/coding.gif" />
 
-### Talking about Personal Stuffs:
+### 🚀 Talking about Personal Stuffs:
 - 🧑🏻‍🎓 I'm graduated from Bangkok University Computer Engineering.
 - 📖 I’m currently learning Full Stack Development,Machine Learning.
 - 👯 I’m looking to collaborate on ...
