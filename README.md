@@ -32,7 +32,7 @@ Web Developement | Software Engineer
 <br><br>
 
 ### 🧑🏻‍💻 Languages and Tools:
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="30%">
 
 ### Frontend  
 <div align="center">  
@@ -40,20 +40,20 @@ Web Developement | Software Engineer
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/css3-plain.svg" alt="CSS3" height="40" />
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/javascript-plain.svg" alt="Javascript" height="40" />
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/bootstrap-plain.svg" alt="Bootstrap" height="40" />
-</div></td><td valign="top" width="25%">
+</div></td><td valign="top" width="30%">
 
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php-plain.svg" alt="php" height="50" />
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/python-original.svg" alt="python" height="40" />
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/mysql-original-wordmark.svg" alt="mysql" height="50" />
-</div></td><td valign="top" width="25%">
+</div></td><td valign="top" width="30%">
 
 ### Tools
 <div align="center">
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VScode" height="40" />
 <img style="margin: 10px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/postman.svg" alt="VScode" height="40" />
-</div></td><td valign="top" width="25%">
+</div></td><td valign="top" width="30%">
 
 ### DevOps  
 <div align="center">  
