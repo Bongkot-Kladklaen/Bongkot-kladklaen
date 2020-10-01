@@ -12,7 +12,8 @@
  
 <div align="Center">
 <h3>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎🏻 Bongkot Kladklaen | 🇹🇭 Thailand
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  🙎🏻 Bongkot Kladklaen | 🇹🇭 Thailand
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 </div><br/>
