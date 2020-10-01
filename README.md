@@ -8,8 +8,7 @@
 <a href="https://www.instagram.com/_jaybong_/"><img height="30" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/Jaycop.IdeaCode/"><img height="30" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/facebook.svg"></a>&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen"><img height="30" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/github.svg"></a>&nbsp;&nbsp;
-
- </p>
+</p>
  
 <div align="Center">
 <h3>
@@ -18,7 +17,7 @@
 </h3>
 </div><br/>
 
-<img align="right" height="350" width="400" alt="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/coding.gif" />
+<img align="right" height="350" width="490" alt="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/coding.gif" />
 
 - 🧑🏻‍🎓 I'm graduated from Bangkok University Computer Engineering.
 - 📖 I’m currently learning Full Stack Development,Machine Learning.
@@ -28,6 +27,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to play guitar and badminton
+
 
 ### 🧑🏻‍💻 Languages and Tools:
 <table><tr><td valign="top" width="25%">
