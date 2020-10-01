@@ -18,7 +18,7 @@
 </h3>
   
 ### 🖥 My Interrest 🖥
-Web Developement, Software Engineer
+Web Developement | Software Engineer
 
 </div><br/>
 
