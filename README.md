@@ -18,8 +18,7 @@
 </h3>
   
 ### My Interrest
-Web Developer
-Software Engineer
+Web Developement, Software Engineer
 
 </div><br/>
 
