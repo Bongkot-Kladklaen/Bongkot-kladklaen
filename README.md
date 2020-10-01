@@ -34,7 +34,7 @@ Web Developement | Software Engineer
 ### 🧑🏻‍💻 Languages and Tools:
 
 <div align="left">  
-<img style="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="HTML5" height="40" />  
+<img style="margin: 50px" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="HTML5" height="40" />  
 <img style="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/css3-plain.svg" alt="CSS3" height="40" />
 <img style="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/javascript-plain.svg" alt="Javascript" height="40" />
 <img style="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/bootstrap-plain.svg" alt="Bootstrap" height="40" />
