@@ -17,16 +17,19 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 </div><br/>
-<p align="center">
-- 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
-- 📫 How to reach me: ...<br>
-- 😄 Pronouns: ...<br>
+
+<img align="right" height="350" width="375" alt="" src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/coding.gif" />
+
+### Talking about Personal Stuffs:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</d>
+
 
 ### 👨🏻‍💻 Languages and Tools:
 <table><tr><td valign="top" width="25%">
