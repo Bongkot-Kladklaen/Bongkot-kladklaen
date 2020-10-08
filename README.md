@@ -30,7 +30,9 @@ Web Developement | Software Engineer
 - ⚡ Fun fact: I love to play guitar and badminton
 
 ### ⚙️ Workshop:
-- <a href="https://gentle-garden-79293.herokuapp.com/login.php">Basic Login</a>
+- <a href="https://gentle-garden-79293.herokuapp.com">Basic Web Login</a>
+- <a href="https://lit-waters-68511.herokuapp.com">Basic Web Comment</a>
+https://lit-waters-68511.herokuapp.com
 <br><br>
 
 ### 🧑🏻‍💻 Languages and Tools:
