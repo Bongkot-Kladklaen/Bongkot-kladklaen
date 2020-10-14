@@ -17,8 +17,8 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
   
-### 🖥 My Interrest 🖥
-Web Developement | Software Engineer
+### 🖥 My Jobs Interrest 🖥
+Web Developement | Software Engineer | Software Tester
 
 </div><br/>
 
