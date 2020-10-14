@@ -30,9 +30,9 @@ Web Developement | Software Engineer | Software Tester
 - ⚡ Fun fact: I love to play guitar and badminton
 
 ### ⚙️ Workshop:
-- <a href="https://gentle-garden-79293.herokuapp.com">Web Login</a>
-- <a href="https://lit-waters-68511.herokuapp.com">Web Comment</a>
-- <a href="https://young-tor-39660.herokuapp.com/">Web CRUD</a>
+- <a href="https://gentle-garden-79293.herokuapp.com" target="_blank">Web Login</a>
+- <a href="https://lit-waters-68511.herokuapp.com" target="_blank">Web Comment</a>
+- <a href="https://young-tor-39660.herokuapp.com/" target="_blank">Web CRUD</a>
 <br><br>
 
 ### 🧑🏻‍💻 Languages and Tools:
