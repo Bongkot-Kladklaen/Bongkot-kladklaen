@@ -35,7 +35,7 @@ Web Developement | Software Engineer | Software Tester
 - <a href="https://young-tor-39660.herokuapp.com">Basic Web CRUD php-jquery</a>
 - <a href="https://salty-waters-86856.herokuapp.com">Basic Web CRUD php-vue.js (Single page application)</a>
 - <a href="https://young-tor-39660.herokuapp.com">Basic Web CRUD php-jquery</a>
-- <a href="http://whispering-wave-41519.herokuapp.com">Basic Web posts/a>
+- <a href="http://whispering-wave-41519.herokuapp.com">Basic Web posts</a>
 <br><br>
 
 ### 🧑🏻‍💻 Languages and Tools:
