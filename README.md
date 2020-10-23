@@ -60,6 +60,7 @@ Web Developement | Software Engineer | Software Tester
 ### Certificates
 <div>
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePhp.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateSQL.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/sql.png" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePythonAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/python.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateHTMLAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateCSS.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/css3.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
