@@ -58,13 +58,10 @@ Web Developement | Software Engineer | Software Tester
 <br/>
 
 ### Certificates
-[PHP](Certificate/CertificatePhp.jpg)
-[Python](Certificate/CertificatePythonAdvanced.jpg)
-[SQL](Certificate/CertificateSQL.jpg)
-[HTML](Certificate/CertificateHTML%20Advanced.jpg)
-[CSS](Certificate/CertificateCSS.jpg)
-[Javascript](Certificate/CertificateJavaScript%20Advanced.jpg)
-[Git](Certificate/CertificateGit.jpg)
+<div>
+<img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php.svg" alt="HTML5" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
 
 <div align="center">
   
