@@ -27,7 +27,7 @@ Web Developement | Software Engineer | Software Tester
 ### 🚀 About Me:
 - 🧑🏻‍🎓 I'm graduated bachelor's degree from Bangkok University Computer Engineering.
 - 📖 I’m currently learning Full Stack Development, Machine Learning and Data Science.
-- ⚡ Fun fact: I love to play guitar and badminton
+- ⚡ Fun fact: I love to play guitar🎸 and badminton🏸
 
 ### ⚙️ Workshop:
 - <a href="https://gentle-garden-79293.herokuapp.com">Basic Web Login</a>
@@ -55,19 +55,17 @@ Web Developement | Software Engineer | Software Tester
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/docker-plain.svg" alt="Docker" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/heroku-plain.svg" alt="Heroku" height="40" />
 </div>
-<br/>
 
-### Certificates
+### 📄 Certificates:
 <div>
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePhp.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePythonAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/python.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateSQL.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/sql.png" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePythonAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/python.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateSQL.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/sql.png" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateHTMLAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateCSS.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/css3.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateJavaScriptAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/javascript.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateGit.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/git.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
+</div><br>
 
 <div align="center">
   
