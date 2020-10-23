@@ -55,7 +55,16 @@ Web Developement | Software Engineer | Software Tester
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/docker-plain.svg" alt="Docker" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/heroku-plain.svg" alt="Heroku" height="40" />
 </div>
-<br/>  
+<br/>
+
+### Certificates
+[PHP](Certificate/CertificatePhp.jpg)
+[Python](Certificate/CertificatePythonAdvanced.jpg)
+[SQL](Certificate/CertificateSQL.jpg)
+[HTML](Certificate/CertificateHTML%20Advanced.jpg)
+[CSS](Certificate/CertificateCSS.jpg)
+[Javascript](Certificate/CertificateJavaScript%20Advanced.jpg)
+[Git](Certificate/CertificateGit.jpg)
 
 <div align="center">
   
