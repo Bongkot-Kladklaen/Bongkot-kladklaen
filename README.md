@@ -54,7 +54,7 @@ Web Developement | Software Engineer | Software Tester
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/github-original.svg" alt="Github" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/docker-plain.svg" alt="Docker" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/heroku-plain.svg" alt="Heroku" height="40" />
-</div>
+</div><br>
 
 ## 📄 Certificates:
 <div>
