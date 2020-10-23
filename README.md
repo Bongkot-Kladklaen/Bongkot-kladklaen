@@ -38,7 +38,7 @@ Web Developement | Software Engineer | Software Tester
 - <a href="https://whispering-wave-41519.herokuapp.com">Basic Web posts(Front)</a> - <a href="https://whispering-wave-41519.herokuapp.com/admin">Admin page posts(Back)</a>
 <br><br>
 
-### 🧑🏻‍💻 Languages and Tools:
+## 🧑🏻‍💻 Languages and Tools:
 <div>
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5-plain.svg" alt="HTML5" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/css3-plain.svg" alt="CSS3" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,7 +56,7 @@ Web Developement | Software Engineer | Software Tester
 <img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/heroku-plain.svg" alt="Heroku" height="40" />
 </div>
 
-### 📄 Certificates:
+## 📄 Certificates:
 <div>
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePhp.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePythonAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/python.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;
