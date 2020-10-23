@@ -33,7 +33,7 @@ Web Developement | Software Engineer | Software Tester
 - <a href="https://gentle-garden-79293.herokuapp.com">Basic Web Login</a>
 - <a href="https://lit-waters-68511.herokuapp.com">Basic Web Comment</a>
 - <a href="https://young-tor-39660.herokuapp.com">Basic Web CRUD php-jQueryAjax</a>
-- <a href="https://salty-waters-86856.herokuapp.com">Basic Web CRUD php-vue.js (Single page application)</a>
+- <a href="https://salty-waters-86856.herokuapp.com">Basic Web CRUD php-vue.js (SPA)</a>
 - <a href="https://whispering-wave-41519.herokuapp.com">Basic Web Posts CMS(Front)</a> - <a href="https://whispering-wave-41519.herokuapp.com/admin">Admin Page Posts CMS(Back)</a>
 <br><br>
 
