@@ -65,7 +65,7 @@ Web Developement | Software Engineer | Software Tester
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateCSS.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/css3.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateJavaScriptAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/javascript.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateGit.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/git.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div><br>
+</div><br><br>
 
 <div align="center">
   
