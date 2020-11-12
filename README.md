@@ -28,7 +28,7 @@ Web Developement | Software Engineer | Software Tester
 - 🧑🏻‍🎓 I'm graduated bachelor's degree from Bangkok University Computer Engineering.
 - 📖 I’m currently learning Full Stack Development, Machine Learning and Data Science.
 - ⚡ Fun fact: I love to play guitar🎸 and badminton🏸
-- ✉️ Email: bongkot.klad@gmail.com
+- ✉️ E-mail: bongkot.klad@gmail.com
 
 ### ⚙️ Workshop:
 - <a href="https://gentle-garden-79293.herokuapp.com">Basic Web Login</a>
