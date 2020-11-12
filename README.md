@@ -30,7 +30,7 @@ Web Developement | Software Engineer | Software Tester
 - ⚡ Fun fact: I love to play guitar🎸 and badminton🏸
 - ✉️ E-mail: bongkot.klad@gmail.com
 
-### ⚙️ Workshop Projects
+### ⚙️ Workshop Projects:
 - <details>
   <summary>Workshop lists</summary>
   
