@@ -79,15 +79,15 @@ Web Developement | Software Engineer | Software Tester
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongkot-kladklaen&show_icons=true&theme=onedark)
 
-</div>
-
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Bongkot-Kladklaen/Python-Flask-CRUD" title="CRUD Flask">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bongkot-kladklaen&repo=Python-Flask-CRUD&theme=gotham">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bongkot-kladklaen&repo=Python-Flask-CRUD&theme=onedark">
   </a>
   <a align="right" href="https://github.com/Bongkot-Kladklaen/Lumen-CRUD_RESTful-API" title="RESTful-API Lumen">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bongkot-kladklaen&repo=Lumen-CRUD_RESTful-API&theme=onedark">
   </a>
 </p>
 <br><br>
+
+</div>
 
