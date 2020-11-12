@@ -30,9 +30,9 @@ Web Developement | Software Engineer | Software Tester
 - ⚡ Fun fact: I love to play guitar🎸 and badminton🏸
 - ✉️ E-mail: bongkot.klad@gmail.com
 
-### ⚙️ Workshops
+### ⚙️ Workshop Projects
 - <details>
-  <summary>My workshop lists</summary>
+  <summary>Workshop lists</summary>
   
   <!--START_SECTION:activity-->
   - <a href="https://gentle-garden-79293.herokuapp.com">Basic Web Login</a>
