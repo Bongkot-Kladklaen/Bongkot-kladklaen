@@ -115,7 +115,7 @@ Web Developement | Software Engineer | Software Tester
   </a>
   
   <a href="https://github.com/Bongkot-Kladklaen/PHP-Basic_Login" title="Django bookshop">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bongkot-kladklaen&repo=PHP-Basic_Login&theme=onedark">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bongkot-kladklaen&repo=Python-Django-Bookshop&theme=onedark">
   </a>
 </p>
 </div>
