@@ -67,14 +67,15 @@ Web Developement | Software Engineer | Software Tester
 
 ## 📄 Certificates:
 <div>
-<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePhp.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePythonAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/python.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateJava.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/java.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateSQL.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/sql.png" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePhp.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/php.svg" alt="PHP" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificatePythonAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/python.svg" alt="Python" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateC#.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/csharp.svg" alt="C#" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateJava.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/java.svg" alt="Java" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateSQL.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/sql.png" alt="SQL" height="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateHTMLAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/html5.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateCSS.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/css3.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateJavaScriptAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/javascript.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateGit.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/git.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateCSS.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/css3.svg" alt="CSS" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateJavaScriptAdvanced.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/javascript.svg" alt="JavaScript" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/Certificate/CertificateGit.jpg"><img src="https://github.com/Bongkot-Kladklaen/Bongkot-kladklaen/blob/master/icons/git.svg" alt="Git" height="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div><br><br><br><br>
 
 <div align="center">
