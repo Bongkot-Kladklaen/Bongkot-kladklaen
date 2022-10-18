@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="center" alt="GIF" height="250px" width="280px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   
 # Hello, I'm Bongkot <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50px">
 </div>
